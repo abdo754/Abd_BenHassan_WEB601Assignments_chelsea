@@ -33,7 +33,7 @@ export class ContentList {
         if (content.type) {
             htmlOutput += `<p>Type: ${content.type}</p>`;
         }
-       
+
 
         return htmlOutput;
     }
